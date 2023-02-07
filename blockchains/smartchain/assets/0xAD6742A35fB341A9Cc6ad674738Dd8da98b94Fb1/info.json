@@ -1,0 +1,11 @@
+{
+    "name": "Wombat Exchange",
+    "website": "https://wombat.exchange/",
+    "description": "A GROUNDBREAKING Multichain Stableswap",
+    "explorer": "https://bscscan.com/token/0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1",
+    "type": "BEP20",
+    "symbol": "WOM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1"
+}

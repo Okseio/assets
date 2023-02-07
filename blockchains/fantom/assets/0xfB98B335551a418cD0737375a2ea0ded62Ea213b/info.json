@@ -1,0 +1,15 @@
+{
+    "name": "MAI Token",
+    "website": "https://julswap.com/",
+    "description": "MiMatic Token.",
+    "explorer": "https://ftmscan.com/token/0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+    "type": "FANTOM",
+    "symbol": "MIMATIC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+    "links": [],
+    "tags": [
+        "defi"
+    ]
+}

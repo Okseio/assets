@@ -1,0 +1,16 @@
+{
+    "name": "Wrapped Ethereum",
+    "website": "https://ethereum.network",
+    "description": "Wrapped Ethereum (WETH) is the first ERC20 token backed 1:1 with Ethereum.",
+    "explorer": "https://ftmscan.com/token/0x74b23882a30290451A17c44f4F05243b6b58C76d",
+    "type": "FANTOM",
+    "symbol": "ETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+    "tags": [
+        "defi",
+        "wrapped"
+    ],
+    "links": []
+}

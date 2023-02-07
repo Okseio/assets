@@ -1,0 +1,12 @@
+{
+    "name": "OKSE Token",
+    "type": "AVALANCHE",
+    "symbol": "OKSE",
+    "decimals": 18,
+    "description": "Web3 Crypto Prepaid & Debit Card",
+    "website": "https://okse.io/",
+    "explorer": "https://snowtrace.io/address/0xA844C05ae51DdafA6c4d5c801DE1Ef5E6F626bEC",
+    "status": "active",
+    "id": "0xA844C05ae51DdafA6c4d5c801DE1Ef5E6F626bEC",
+    "tags": []
+}

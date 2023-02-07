@@ -1,0 +1,15 @@
+{
+    "name": "BOO Token",
+    "website": "https://julswap.com/",
+    "description": "BOO Token.",
+    "explorer": "https://ftmscan.com/token/0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+    "type": "FANTOM",
+    "symbol": "BOO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+    "links": [],
+    "tags": [
+        "defi"
+    ]
+}

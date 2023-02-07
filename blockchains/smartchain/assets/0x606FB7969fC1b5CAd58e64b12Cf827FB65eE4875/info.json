@@ -1,0 +1,11 @@
+{
+    "name": "OKSE Token",
+    "type": "BEP20",
+    "symbol": "OKSE",
+    "decimals": 18,
+    "website": "https://okse.io",
+    "description": "OKSE is a Okse Wallet Card supported Token.",
+    "explorer": "https://bscscan.com/token/0x606FB7969fC1b5CAd58e64b12Cf827FB65eE4875",
+    "status": "active",
+    "id": "0x606FB7969fC1b5CAd58e64b12Cf827FB65eE4875"
+}

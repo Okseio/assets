@@ -1,0 +1,12 @@
+{
+    "name": "OKSE Token",
+    "type": "Polygon",
+    "symbol": "OKSE",
+    "decimals": 18,
+    "description": "Web3 Crypto Prepaid & Debit Card",
+    "website": "https://okse.io/",
+    "explorer": "https://polygonscan.com/address/0xFf1674D39dEf5d3840f4021FAD2c5D4F20520557",
+    "status": "active",
+    "id": "0xFf1674D39dEf5d3840f4021FAD2c5D4F20520557",
+    "tags": []
+}

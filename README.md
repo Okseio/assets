@@ -1,6 +1,6 @@
 # Okse Wallet Assets Info
 
-![Check](https://github.com/Okseio/assets/workflows/Check/badge.svg)
+![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
 
 ## Overview
 
@@ -13,7 +13,7 @@ For every token a logo and optional additional information is available (such da
 
 Such a large collection can be maintained only through a community effort, so _feel free to add your token_.
 
-<center><img src='https://okse.io/images/logo.png' height="200"></center>
+<center><img src='https://okse.io/images/logo.png' height="100"></center>
 
 ## How to add token
 

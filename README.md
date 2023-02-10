@@ -1,6 +1,6 @@
 # Okse Wallet Assets Info
 
-![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
+![Check](https://github.com/Okseio/assets/workflows/Check/badge.svg)
 
 ## Overview
 

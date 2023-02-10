@@ -590,7 +590,7 @@
             "name": "JOE",
             "symbol": "JOE",
             "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/Okseio/assets/master/blockchains/avalanchec/assets/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
             "pairs": []
         }
 

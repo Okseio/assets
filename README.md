@@ -19,26 +19,23 @@ Such a large collection can be maintained only through a community effort, so _f
 
 Please note that __brand new tokens are not accepted__,
 the projects have to be sound, with information available, and __non-minimal circulation__
-(for limit details see <https://developer.trustwallet.com/assets/requirements>).
-
-### Assets App
-
-The [Assets web app](https://assets.trustwallet.com) can be used for most new token additions (Github account is needed).
-
-### Quick starter
-
-Details of the repository structure and contribution guidelines are listed on the
-[Developers site](https://developer.trustwallet.com/assets/new-asset).
-Here is a quick starter summary for the most common use case.
+(for limit details see <https://docs.okse.io/developers/assets/requirements>).
 
 
-## Documentation
+### To Add Logo
 
-For details, see the [Developers site](https://developer.trustwallet.com):
+- [ ] Fork the Github repository
 
-- [Contribution guidelines](https://developer.trustwallet.com/assets/repository_details)
+- [ ] Create folder with name of token smartcontact address in **CHECKSUM** format `blockchains/ethereum/assets/<token_smartcontract_address>/`.
 
-- [FAQ](https://developer.trustwallet.com/assets/faq)
+- [ ] Tell your designer that token image must be in PNG format, avoid transparent background, recommended size 256x256px, with max file size of 100kB.
+
+- [ ] Upload your logo with file named `logo.png` to previously created folder with smartcontract address, and if you done all correctly your path should look like this. `blockchains/ethereum/assets/0x1234567461d3f8Db7496581774Bd869C83D51c93/logo.png`
+
+- [ ] Run `npm run check` and make sure tests pass
+
+- [ ] Create a pull request to the main repo
+
 
 ## Scripts
 

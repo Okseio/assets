@@ -572,54 +572,26 @@
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0xd6070ae98b8069de6B494332d1A1a81B6179D960/logo.png",
             "pairs": []
-        },        {
-            "name": "Wrapped AVAX",
-            "type": "AVALANCHE",
-            "symbol": "WAVAX",
-            "decimals": 18,
-            "description": "Cross Chain Portal Bridged Token",
-            "website": "https://ethereum.org/en/",
-            "explorer": "https://snowtrace.io/address/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
-            "status": "active",
-            "id": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
-            "tags": [
-                "wrapped"
-            ]
         },
         {
-            "name": "OKSE Token",
+            "asset": "c10009000_t0xbc7B0223Dd16cbc679c0D04bA3F4530D76DFbA87",
             "type": "AVALANCHE",
+            "address": "0xbc7B0223Dd16cbc679c0D04bA3F4530D76DFbA87",
             "symbol": "OKSE",
+            "name": "OKSE Token",
             "decimals": 18,
-            "description": "Cross Chain Portal Bridged Token",
-            "website": "https://okse.io/",
-            "explorer": "https://snowtrace.io/address/0xbc7B0223Dd16cbc679c0D04bA3F4530D76DFbA87",
-            "status": "active",
-            "id": "0xbc7B0223Dd16cbc679c0D04bA3F4530D76DFbA87"
+            "logoURI": "https://raw.githubusercontent.com/Okseio/assets/master/blockchains/avalanchec/assets/0xbc7B0223Dd16cbc679c0D04bA3F4530D76DFbA87/logo.png",
+            "pairs": []
         },
         {
-            "name": "USD Coin",
+            "asset": "c10009000_t0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
             "type": "AVALANCHE",
-            "symbol": "USDC",
-            "decimals": 6,
-            "description": "Cross Chain Portal Bridged Token",
-            "website": "https://www.centre.io/",
-            "explorer": "https://snowtrace.io/address/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
-            "status": "active",
-            "id": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E"
-
-        },
-        {
+            "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
             "name": "JoeToken",
-            "type": "AVALANCHE",
             "symbol": "JOE",
             "decimals": 18,
-            "description": "One-stop-shop decentralized trading on Avalanche",
-            "website": "https://traderjoexyz.com/",
-            "explorer": "https://snowtrace.io/address/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
-            "status": "active",
-            "id": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd"
-
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
+            "pairs": []
         }
 
     ],

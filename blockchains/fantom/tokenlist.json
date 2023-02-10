@@ -185,8 +185,7 @@
         },
 	    {
             "asset": "c10000250_t0x3b53D2C7B44d40BE05Fa5E2309FFeB6eB2492d88",
-
-            "type": "ERC20",
+            "type": "FANTOM",
             "address": "0x3b53D2C7B44d40BE05Fa5E2309FFeB6eB2492d88",
             "name": "OKSE Token",
             "symbol": "OKSE",

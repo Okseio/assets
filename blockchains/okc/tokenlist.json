@@ -38,6 +38,15 @@
             "symbol": "USDC",
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/okc/assets/0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85/logo.png"
+        },
+        {
+            "asset": "c996_t0xA844C05ae51DdafA6c4d5c801DE1Ef5E6F626bEC",
+            "type": "KIP20",
+            "address": "0xA844C05ae51DdafA6c4d5c801DE1Ef5E6F626bEC",
+            "name": "OKSE Token",
+            "symbol": "OKSE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Okseio/assets/master/blockchains/okc/assets/0xA844C05ae51DdafA6c4d5c801DE1Ef5E6F626bEC/logo.png"
         }
     ]
  }

@@ -190,7 +190,7 @@
             "name": "OKSE Token",
             "symbol": "OKSE",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Okseio/assets/master/blockchains/avalanchec/assets/0x3b53D2C7B44d40BE05Fa5E2309FFeB6eB2492d88/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/Okseio/assets/master/blockchains/fantom/assets/0x3b53D2C7B44d40BE05Fa5E2309FFeB6eB2492d88/logo.png",
             "pairs": []
         }
     ],

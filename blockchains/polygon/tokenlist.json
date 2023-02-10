@@ -141,6 +141,16 @@
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.png",
             "pairs": []
+        },
+        {
+            "asset": "c966_t0xFf1674D39dEf5d3840f4021FAD2c5D4F20520557",
+            "type": "POLYGON",
+            "address": "0xFf1674D39dEf5d3840f4021FAD2c5D4F20520557",
+            "name": "OKSE Token",
+            "symbol": "OKSE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Okseio/assets/master/blockchains/polygon/assets/0xFf1674D39dEf5d3840f4021FAD2c5D4F20520557/logo.png",
+            "pairs": []
         }
     ],
     "version": {

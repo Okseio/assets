@@ -52,6 +52,16 @@
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/arbitrum/assets/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a/logo.png",
             "pairs": []
+        },
+        {
+            "asset": "c10042221_t0x4313DDa7bc940F3f2B2ddDACF568300165C878CA",
+            "type": "ARBITRUM",
+            "address": "0x4313DDa7bc940F3f2B2ddDACF568300165C878CA",
+            "name": "OKSE Token",
+            "symbol": "OKSE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Okseio/assets/master/blockchains/polygon/assets/0x4313DDa7bc940F3f2B2ddDACF568300165C878CA/logo.png",
+            "pairs": []
         }
     ],
     "version": {

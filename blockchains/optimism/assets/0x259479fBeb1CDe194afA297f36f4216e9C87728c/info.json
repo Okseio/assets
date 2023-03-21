@@ -1,0 +1,11 @@
+{
+    "name": "OKSE Token",
+    "type": "OPTIMISM",
+    "symbol": "OKSE",
+    "decimals": 18,
+    "website": "https://okse.io",
+    "description": "OKSE is a Okse Wallet Card supported Token.",
+    "explorer": "https://optimistic.etherscan.io/token/0x259479fBeb1CDe194afA297f36f4216e9C87728c",
+    "status": "active",
+    "id": "0x259479fBeb1CDe194afA297f36f4216e9C87728c"
+}

@@ -60,7 +60,7 @@
             "name": "OKSE Token",
             "symbol": "OKSE",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Okseio/assets/master/blockchains/polygon/assets/0x4313DDa7bc940F3f2B2ddDACF568300165C878CA/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/Okseio/assets/master/blockchains/arbitrum/assets/0x4313DDa7bc940F3f2B2ddDACF568300165C878CA/logo.png",
             "pairs": []
         }
     ],

@@ -62,6 +62,16 @@
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/optimism/assets/0xF98dCd95217E15E05d8638da4c91125E59590B07/logo.png",
             "pairs": []
+        },
+        {
+            "asset": "c10000070_t0x259479fBeb1CDe194afA297f36f4216e9C87728c",
+            "type": "OPTIMISM",
+            "address": "0x259479fBeb1CDe194afA297f36f4216e9C87728c",
+            "name": "OKSE Token",
+            "symbol": "OKSE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Okseio/assets/master/blockchains/optimism/assets/0x259479fBeb1CDe194afA297f36f4216e9C87728c/logo.png",
+            "pairs": []
         }
     ],
     "version": {

@@ -192,6 +192,16 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Okseio/assets/master/blockchains/fantom/assets/0x3b53D2C7B44d40BE05Fa5E2309FFeB6eB2492d88/logo.png",
             "pairs": []
+        },
+        {
+            "asset": "c10000250_t0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+            "type": "FANTOM",
+            "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+            "name": "Frapped USDT",
+            "symbol": "fUSDT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Okseio/assets/master/blockchains/fantom/assets/0x049d68029688eAbF473097a2fC38ef61633A3C7A/logo.png",
+            "pairs": []
         }
     ],
     "version": {

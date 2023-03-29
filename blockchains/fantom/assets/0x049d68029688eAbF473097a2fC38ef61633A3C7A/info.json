@@ -1,0 +1,25 @@
+{
+    "name": "Frapped USDT",
+    "website": "https://tether.to",
+    "description": "Harness the power of liquidity cross-chain in USDT tokens on EVM compatible Blockchains.",
+    "explorer": "https://ftmscan.com/token/0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+    "research": "",
+    "type": "FANTOM",
+    "symbol": "fUSDT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/tether/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/tether/"
+        }
+    ]
+}

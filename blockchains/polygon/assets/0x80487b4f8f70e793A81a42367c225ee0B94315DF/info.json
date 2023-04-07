@@ -1,0 +1,25 @@
+{
+    "name": "CASH",
+    "website": "https://www.stabl.fi/",
+    "description": "Yield Bearing Stable Indexcoin.",
+    "explorer": "https://polygonscan.com/token/0x80487b4f8f70e793A81a42367c225ee0B94315DF",
+    "type": "POLYGON",
+    "symbol": "CASH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x80487b4f8f70e793A81a42367c225ee0B94315DF",
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/stabllabs"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Stabl_Fi"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@stablfi"
+        }
+    ]
+}

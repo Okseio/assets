@@ -1,0 +1,12 @@
+{
+    "name": "OKSE Token",
+    "type": "ZKSYNC",
+    "symbol": "OKSE",
+    "decimals": 18,
+    "description": "Web3 Crypto Prepaid & Debit Card",
+    "website": "https://okse.io/",
+    "explorer": "https://raw.githubusercontent.com/Okseio/assets/master/blockchains/zksync/assets/0x8483bf6d5E45e467f2979c5d51B76100AAB60294/logo.png",
+    "status": "active",
+    "id": "0x8483bf6d5E45e467f2979c5d51B76100AAB60294",
+    "tags": []
+}

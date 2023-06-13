@@ -3507,6 +3507,16 @@
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xbAFDabaDcf19d0cFbbe0AB9C69CF050D86ff888C/logo.png",
             "pairs": []
+        },
+        {
+            "asset": "c60_t0x683be00CCa798D59bfBc58C818CbC7C72bE947DC",
+            "type": "ERC20",
+            "address": "0x683be00CCa798D59bfBc58C818CbC7C72bE947DC",
+            "name": "OKSE Token",
+            "symbol": "OKSE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Okseio/assets/master/blockchains/ethereum/assets/0x683be00CCa798D59bfBc58C818CbC7C72bE947DC/logo.png",
+            "pairs": []
         }
     ],
     "version": {
